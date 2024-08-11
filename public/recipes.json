@@ -1,0 +1,155 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with creamy sauce, pancetta, and Parmesan.",
+      "image_url": "https://i.ibb.co/qCpGz7D/Spaghetti-Carbonara.jpg",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Parmesan cheese",
+        "2 cloves garlic",
+        "Salt",
+        "Black pepper"
+      ],
+      "preparing_time": 20,
+      "calories": 500
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Chicken Caesar Salad",
+      "description": "A fresh salad with grilled chicken, romaine lettuce, croutons, and Caesar dressing.",
+      "image_url": "https://i.ibb.co/t3CN7Lj/Chicken-Caesar-Salad.jpg",
+      "ingredients": [
+        "2 chicken breasts",
+        "1 head romaine lettuce",
+        "50g Parmesan cheese",
+        "100g croutons",
+        "Caesar dressing",
+        "Salt",
+        "Black pepper"
+      ],
+      "preparing_time": 15,
+      "calories": 350
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Margherita Pizza",
+      "description": "A simple pizza topped with fresh tomatoes, mozzarella, and basil.",
+      "image_url": "https://i.ibb.co/M6RnHfL/Margherita-Pizza.jpg",
+      "ingredients": [
+        "Pizza dough",
+        "200g mozzarella cheese",
+        "2 large tomatoes",
+        "Fresh basil",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "preparing_time": 30,
+      "calories": 600
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Beef Tacos",
+      "description": "Tasty tacos filled with seasoned ground beef, lettuce, cheese, and salsa.",
+      "image_url": "https://i.ibb.co/2K3ppWw/Beef-Tacos.jpgg",
+      "ingredients": [
+        "200g ground beef",
+        "Taco shells",
+        "1 head lettuce",
+        "100g cheddar cheese",
+        "Salsa",
+        "1 onion",
+        "Taco seasoning"
+      ],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "Chocolate Chip Cookies",
+      "description": "Classic cookies loaded with chocolate chips.",
+      "image_url": "https://i.ibb.co/HKhkrGy/Chocolate-Chip-Cookies.jpg",
+      "ingredients": [
+        "200g flour",
+        "100g butter",
+        "150g sugar",
+        "1 egg",
+        "200g chocolate chips",
+        "1 tsp vanilla extract",
+        "1 tsp baking powder"
+      ],
+      "preparing_time": 20,
+      "calories": 250
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Grilled Salmon",
+      "description": "A healthy grilled salmon filet with lemon and herbs.",
+      "image_url": "https://i.ibb.co/t4Tjm28/Grilled-Salmon.jpg",
+      "ingredients": [
+        "2 salmon filets",
+        "1 lemon",
+        "Fresh dill",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "preparing_time": 15,
+      "calories": 400
+    },
+    {
+      "recipe_id": "007",
+      "recipe_name": "Vegetable Stir-Fry",
+      "description": "A quick and easy stir-fry with mixed vegetables and soy sauce.",
+      "image_url": "https://i.ibb.co/B4kHYc0/Vegetable-Stir-Fry.jpg",
+      "ingredients": [
+        "1 bell pepper",
+        "1 carrot",
+        "1 zucchini",
+        "100g broccoli",
+        "Soy sauce",
+        "Garlic",
+        "Ginger"
+      ],
+      "preparing_time": 10,
+      "calories": 150
+    },
+    {
+      "recipe_id": "008",
+      "recipe_name": "Mushroom Risotto",
+      "description": "A creamy risotto with mushrooms and Parmesan cheese.",
+      "image_url": "https://i.ibb.co/KWNz4q0/Mushroom-Risotto.jpg",
+      "ingredients": [
+        "200g Arborio rice",
+        "100g mushrooms",
+        "50g Parmesan cheese",
+        "1 onion",
+        "1 clove garlic",
+        "Olive oil",
+        "Vegetable broth"
+      ],
+      "preparing_time": 35,
+      "calories": 550
+    },
+    {
+      "recipe_id": "009",
+      "recipe_name": "Banana Pancakes",
+      "description": "Fluffy pancakes made with ripe bananas and served with syrup.",
+      "image_url": "https://i.ibb.co/txZpGcS/Banana-Pancakes.jpg",
+      "ingredients": [
+        "200g flour",
+        "2 ripe bananas",
+        "1 egg",
+        "100ml milk",
+        "1 tsp baking powder",
+        "Maple syrup",
+        "Butter"
+      ],
+      "preparing_time": 20,
+      "calories": 300
+    }
+  ]
+  
