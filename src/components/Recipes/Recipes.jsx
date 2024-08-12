@@ -46,7 +46,7 @@ const Recipes = () => {
           elementum mauris aenean neque.{" "}
         </p>
       </div>
-      <div className="flex mt-[50px]">
+      <div className="flex mt-[50px] gap-5">
         <RecipesList handleForCook={handleForCook}></RecipesList>
         <RecipeSideBar
           wantCook={wantCook}

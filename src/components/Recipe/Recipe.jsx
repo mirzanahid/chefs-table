@@ -11,7 +11,7 @@ const Recipe = ({ recipe,handleForCook }) => {
     calories,
   } = recipe;
   return (
-    <div className="border border-[rgba(40,40,40,20%)] p-6 rounded-2xl w-[380px]">
+    <div className="border border-[rgba(40,40,40,20%)] p-6 rounded-2xl w-[410px]">
       <img className="rounded-2xl mb-6" src={image_url} alt="" />
       <div className="border-b border-[rgba(40,40,40,10%)] pb-4">
         <h3 className="font-semibold text-xl text-[#282828] mb-4">
